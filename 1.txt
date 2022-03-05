@@ -1,2 +1,6 @@
 noi dung 1
+<<<<<<< HEAD
 sua loi 1
+=======
+lenh git checkout
+>>>>>>> alpha
